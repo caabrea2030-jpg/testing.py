@@ -1,0 +1,1 @@
+print("lying is the most fun a girl can have without taking her clothes off")
